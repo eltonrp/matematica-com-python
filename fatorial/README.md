@@ -3,5 +3,5 @@ O fatorial, de um número inteiro positivo n, é representado por n!.
 Por definição:
     1! = 1 e 
     0! = 1
-Para utilizer o código, é necessário passar o número que deseja calcular o fatorial como parâmetro da função.
+Para utilizar o código, é necessário passar o número que deseja calcular o fatorial como parâmetro da função.
 Utilize fatorial_exp(n) para explicitar a conta ou fatorial_res(n) para mostrar apenas o resultado
