@@ -9,4 +9,4 @@ Por definição:
 
 Para utilizar o código, é necessário passar o número que deseja calcular o fatorial como parâmetro da função.
 
-Utilize fatorial_exp(n) para explicitar a conta ou fatorial_res(n) para mostrar apenas o resultado.
+Utilize fatorial_exp(n) para explicitar a conta, ou fatorial_res(n) para mostrar apenas o resultado.
