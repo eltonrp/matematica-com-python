@@ -13,6 +13,6 @@ Na pasta completo, fiz um pequeno programa em que é possível entrar com o núm
 
 Lembrando que os códigos convertem apenas de decimal para qualquer outra, entre 2 e 16. Assim como, convertem bases entre 2 e 16, para a decimal.
 
-Utilize apenas números inteiros.
+Utilize apenas números inteiros. Para números de base superior a base 10, você pode utilizar letras de A a F, conforme a limitação da base. Pode-se usar tanto maiúsculas como minúsculas.
 
 Dica: na calculadora do sistema, a maioria permite escolher a função Programador, o que permite fazer conversões e cálculos em outras bases. Mas é limitada às bases binária, octal, decimal e hexadecimal.
