@@ -11,7 +11,7 @@ baseoutra_p_dec.py, se quiser transformar qualquer base entre Hexadecimal a Bin�
 
 Na pasta completo, fiz um pequeno programa em que é possível entrar com o número desejado, a base em que está o número e transformá-la para decimal e vice-versa, sem a necessidade de executar diferentes arquivos. É necessário executar apenas o arquivo trocarbase.py
 
-Lembrando que os códigos convertem apenas de decimal para qualquer outra, entre 2 e 16 e vice-sersa.
+Lembrando que os códigos convertem apenas de decimal para qualquer outra, entre 2 e 16. Assim como, convertem bases entre 2 e 16, para a decimal.
 
 Utilize apenas números inteiros.
 
