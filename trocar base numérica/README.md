@@ -5,9 +5,9 @@ Para fim de estudos criei alguns códigos e separei em dois diretórios:
 
 Na pasta simples, é possível escolher o arquivo que irá executar: 
 
-basedec_p_outra.py, se quiser partir de um número decimal, para outra qualquer. Até o limite máximo da base Hexadecimal.
+* basedec_p_outra.py, se quiser partir de um número decimal, para outra qualquer. Até o limite máximo da base Hexadecimal.
 
-baseoutra_p_dec.py, se quiser transformar qualquer base entre Hexadecimal a Binária, para a base decimal.
+* baseoutra_p_dec.py, se quiser transformar qualquer base entre Hexadecimal a Binária, para a base decimal.
 
 Na pasta completo, fiz um pequeno programa em que é possível entrar com o número desejado, a base em que está o número e transformá-la para decimal e vice-versa, sem a necessidade de executar diferentes arquivos. É necessário executar apenas o arquivo trocarbase.py
 
