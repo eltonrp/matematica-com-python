@@ -20,5 +20,3 @@ def matriz(m):
     print('\nSua matriz transposta é:\n')
     transposta(m)
     mostrar(transposta(m))
-
-matriz([[3, 5], [8, 6]])
