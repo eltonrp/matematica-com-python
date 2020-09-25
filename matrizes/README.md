@@ -9,4 +9,4 @@ Ou seja, listas dentro de uma lista.
 `matriz = [[], [], []...[]]`
 
 Em matriz.py é passado os valores da matriz desejada e é chamada a função matriz.  
-A função matriz, assim como mostrar e transposta estão dentro de funcoes.py, dentro da pasta lib.
+A função matriz(), assim como mostrar() e transposta() estão dentro de funcoes.py, dentro da pasta lib.
