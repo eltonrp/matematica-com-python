@@ -1,1 +1,5 @@
 .vscode/settings.json
+media-harmonica/.idea/inspectionProfiles/profiles_settings.xml
+*.iml
+*.xml
+*.yml
