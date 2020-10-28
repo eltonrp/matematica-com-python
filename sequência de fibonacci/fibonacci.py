@@ -8,5 +8,5 @@ def fibo(n):
     elif n == 1:  # ---> Pos 1 == 1
         return 1
     else:
-        res = fibo(n - 1) + fibo(n - 2)
+        res = fibo(n - 1) + fibo(n - 2)  # ---> Uso da Recursão  
         return res
