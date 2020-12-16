@@ -1,4 +1,7 @@
 # Usando Randint da lib Random
+
+## Um exercício simples para trabalhar com números aleatórios
+
 Função que gera de 1 a 10 números inteiros positivos aleatórios, de 0 a 100.
 
 A função informa quantos valores foram escolhidos e os mostra dentro de uma lista.
